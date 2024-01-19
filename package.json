@@ -1,6 +1,6 @@
 {
-	"name": "react-native-honeywell-scanner-v2",
-	"title": "React Native Honeywell Scanner-v2",
+	"name": "rn-honeywell-scanner",
+	"title": "rn-honeywell-scanner - Honeywell scanner bridge for React Native",
 	"version": "1.1.6",
 	"description": "Bridge to use the Honeywell scanner",
 	"main": "dist/index.js",
@@ -11,21 +11,22 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/AMI3GOLtd/react-native-honeywell-scanner.git",
-		"baseUrl": "https://github.com/AMI3GOLtd/react-native-honeywell-scanner.git"
+		"url": "git+https://github.com/onurure/rn-honeywell-scanner.git",
+		"baseUrl": "https://github.com/onurure/rn-honeywell-scanner.git"
 	},
 	"keywords": [
 		"react-native",
-		"honeywell"
+		"honeywell",
+		"onurure"
 	],
-	"author": "AMI3GO Ltd <enquiry@ami3go.com>",
+	"author": "onurure <onurure@onurure.com>",
 	"contributors": [
-		"AMI3GO Ltd <enquiry@ami3go.com> (https://ami3go.com)"
+		"onurure"
 	],
 	"bugs": {
-		"url": "https://github.com/AMI3GOLtd/react-native-honeywell-scanner/issues"
+		"url": "https://github.com/onurure/rn-honeywell-scanner/issues"
 	},
-	"homepage": "https://github.com/AMI3GOLtd/react-native-honeywell-scanner#readme",
+	"homepage": "https://github.com/onurure/rn-honeywell-scanner#readme",
 	"license": "MIT",
 	"licenseFilename": "LICENSE",
 	"readmeFilename": "README.md",
